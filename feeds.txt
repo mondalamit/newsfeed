@@ -1,0 +1,4 @@
+http://rss.nytimes.com/services/xml/rss/nyt/US.xml
+http://rss.nytimes.com/services/xml/rss/nyt/World.xml
+http://rss.nytimes.com/services/xml/rss/nyt/Sports.xml
+https://www.technologyreview.com/topnews.rss.t
