@@ -72,27 +72,29 @@
         <a class="signin">Already have an account?</a>
       </div>
 
-      <div class="row rss">
-        <div class="col-lg-6">
-          <h4>Subheading</h4>
-          <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
-
-          <h4>Subheading</h4>
-          <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
-
-          <h4>Subheading</h4>
-          <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+      <div class="rss">
+        <div class="filters">
+          <span>U.S.</span>
+          <span>World</span>
+          <span>Sports</span>
+          <span>Technology</span>
         </div>
-
-        <div class="col-lg-6">
-          <h4>Subheading</h4>
-          <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
-
-          <h4>Subheading</h4>
-          <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
-
-          <h4>Subheading</h4>
-          <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+        <div class="">
+          <div class="article">
+            <h3>Texas to Secede from Union</h3>
+            <h6>Bo Burnham, Aug. 12 1969</h6>
+            <p>Texans want to secede from the union to form a lone star state.</p>
+          </div>
+          <div class="article">
+            <h3>Texas to Secede from Union</h3>
+            <h6>Bo Burnham, Aug. 12 1969</h6>
+            <p>Texans want to secede from the union to form a lone star state.</p>
+          </div>
+          <div class="article">
+            <h3>Texas to Secede from Union</h3>
+            <h6>Bo Burnham, Aug. 12 1969</h6>
+            <p>Texans want to secede from the union to form a lone star state.</p>
+          </div>
         </div>
       </div>
 

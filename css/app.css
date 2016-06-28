@@ -14,7 +14,8 @@ body {
 
 /* Custom page header */
 .header {
-  padding-bottom: 20px;
+  margin-bottom: 25px;
+  padding-bottom: 15px;
   border-bottom: 1px solid #e5e5e5;
 }
 /* Make the masthead heading the same height as the navigation */
@@ -63,10 +64,21 @@ body {
 /* Supporting rss content */
 .rss {
   display:none;
-  margin: 40px 0;
 }
-.rss p + h4 {
-  margin-top: 28px;
+
+.article {
+  border: 1px solid black;
+  padding: 10px;
+  margin-top: 20px;
+}
+
+/* Styles for filters */
+.filters span {
+  padding: 1.2em;
+}
+
+.filters span:hover {
+  background-color: yellow;
 }
 
 /* Responsive: Portrait tablets and up */

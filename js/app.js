@@ -70,6 +70,13 @@ function getLastVisitDate() {
 	}
 }
 
+function getRSS() {
+	// ajax request for RSS feeds
+	// ! insert all stories into one data structure !
+	// sort Stories by publish date, descending
+	
+}
+
 function loginSuccess() {
 	$("#signin_modal").hide();
 	$("#createaccount_modal").hide();
